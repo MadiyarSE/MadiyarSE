@@ -1,5 +1,5 @@
 - Hey
-- 👋 I am a Junior Data Scientist with a huge interest in data analysis and machine learning
+- 👋 I am  Data Scientist with a huge interest in data analysis and machine learning
 - My journey started from the IITU  University in Almaty
 - 👀 I’m interested in Data Science/ Data Analysis
 - 📫 How to reach me :  madiyar.alimov02@gmail.com 
