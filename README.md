@@ -1,5 +1,10 @@
-- Hey
-- 👋 I am  Data Scientist with a huge interest in data analysis and machine learning
-- My journey started from the IITU  University in Almaty
-- 👀 I’m interested in Data Science/ Data Analysis
-- 📫 How to reach me :  madiyar.alimov02@gmail.com 
+### Hey, I'm Madiyar 👋
+
+Data Scientist / Analyst
+
+- 🎓 BSc in Cybersecurity from IITU (Almaty) · co-authored an [arXiv paper](ссылка) on domain generalization for autonomous driving
+-  🎓 MSc in Data Science at TU Wien(Vienna, Austria)
+- 💼 3+ years as a Data/Big Data Analyst at VEON/Beeline Kazakhstan — PySpark, SQL, AWS, Power BI
+- 🔭 Currently building [ab-testing-platform](https://github.com/MadiyarSE/ab-testing-platform) — an end-to-end A/B testing pipeline (dbt, Airflow, Streamlit)
+- 🎯 Focused on A/B testing, experimentation, and data science roles
+- 📫 Reach me at madiyar.alimov02@gmail.com
